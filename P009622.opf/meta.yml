@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W3CN6021
   title: སྐྱེས་ཆེན་དམ་པའི་རྟོགས་བརྗོད་ཐོར་བུ།
   author: ''
-  volumes: {}
+  volumes:
+    ad2edfa8e56f438394cdac5b4aee6baa:
+      image_group_id: I3CN6023
+      title: ''
+      volume_number: 1
+      total_pages: 224
